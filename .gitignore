@@ -1,0 +1,35 @@
+# MacOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv
+env/
+venv/
+ENV/
+spark_env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Spark Application Logs
+app-*
+
+# Output Directories
+out_cluster_apache/
+out_cluster_parquet/
+out_local_apache/
+out_local_parquet/
+
+# Data Files (likely large or generated)
+*.parquet
+*.zip
+# Keep sample csv if needed, but often data is ignored. 
+# Uncomment below if you want to ignore all CSVs
+# *.csv
+
+# Temporary Files
+~$*

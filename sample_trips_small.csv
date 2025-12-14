@@ -1,0 +1,5 @@
+trip_id,pickup_datetime,dropoff_datetime,pickup_location_id,dropoff_location_id,passenger_count,trip_distance,fare_amount,tip_amount,payment_type
+1,2024-01-03 08:15:00,2024-01-03 08:35:30,142,236,1,5.2,18.5,3.0,CreditCard
+2,2024-01-03 17:05:00,2024-01-03 17:50:00,41,132,2,10.7,32.7,6.0,Cash
+3,2024-01-04 13:10:00,2024-01-04 13:18:00,50,50,1,0.2,3.0,0.0,CreditCard
+4,2024-01-05 22:00:00,2024-01-05 22:25:00,12,98,4,7.8,25.5,4.5,CreditCard
