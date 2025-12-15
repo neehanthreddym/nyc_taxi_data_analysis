@@ -1,4 +1,4 @@
-# Assignment 3 – Docker Tutorial for Distributed Spark
+# NYC Taxi Data Analysis with Distributed Spark & Docker
 ## Environment Setup (Containers + Spark)
 **Pull the spark image**:
 ```bash
